@@ -1,7 +1,11 @@
 ├── LICENSE            # License file for the project
+
 ├── Makefile           # Makefile with commands like `make data` or `make train`
+
 ├── README.md          # The top-level README for developers using this project.
+
 │
+
 ├── data               # Data storage directory
 │   ├── external       # Data from third-party sources.
 │   ├── interim        # Intermediate transformed data.
