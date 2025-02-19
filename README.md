@@ -1,6 +1,5 @@
 Comment-Analysis-for-Sentiment-Detection
 ==============================
-# **Comment Analysis for Sentiment Detection**  
 
 ##  Overview  
 This project is designed to analyze user comments and determine their sentiment—whether **Positive, Negative, or Neutral**. Using **Natural Language Processing (NLP)** and **Machine Learning (ML)** techniques, it processes textual data, extracts insights, and classifies sentiments effectively.  
