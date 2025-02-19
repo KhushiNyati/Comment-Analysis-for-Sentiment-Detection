@@ -1,44 +1,42 @@
 Comment-Analysis-for-Sentiment-Detection
 ==============================
-Overview
-This project is designed to analyze user comments and determine their sentiment—whether Positive, Negative, or Neutral. Using Natural Language Processing (NLP) and Machine Learning (ML) techniques, it processes textual data, extracts insights, and classifies sentiments effectively.
+# **Comment Analysis for Sentiment Detection**  
 
-Key Features
-Sentiment Classification – Identifies and categorizes comments into positive, negative, or neutral sentiments.
-Text Preprocessing – Cleans and prepares text data using tokenization, stopword removal, and lemmatization.
-Machine Learning Models – Implements Logistic Regression, Random Forest, and Support Vector Machines (SVM) for sentiment detection.
-Deep Learning Approach – Uses LSTM and BERT for advanced sentiment analysis.
-Data Visualization – Generates word clouds, sentiment distribution graphs, and heatmaps for better insights.
-Real-time Sentiment Analysis – Supports live input processing to analyze comments dynamically.
+##  Overview  
+This project is designed to analyze user comments and determine their sentiment—whether **Positive, Negative, or Neutral**. Using **Natural Language Processing (NLP)** and **Machine Learning (ML)** techniques, it processes textual data, extracts insights, and classifies sentiments effectively.  
 
-Technologies Used
-🔹 Programming Language – Python (NumPy, Pandas, Matplotlib, Seaborn)
-🔹 Natural Language Processing (NLP) – NLTK, SpaCy, TextBlob
-🔹 Machine Learning – Scikit-Learn, XGBoost
-🔹 Deep Learning – TensorFlow, PyTorch (for LSTM, BERT-based models)
-🔹 Data Visualization – Matplotlib, Seaborn, WordCloud
+##  Key Features  
+- **Sentiment Classification** – Identifies and categorizes comments into **positive, negative, or neutral** sentiments.  
+- **Text Preprocessing** – Cleans and prepares text data using **tokenization, stopword removal, and lemmatization**.  
+- **Machine Learning Models** – Implements **Logistic Regression, Random Forest, and Support Vector Machines (SVM)** for sentiment detection.  
+- **Deep Learning Approach** – Uses **LSTM and BERT** for advanced sentiment analysis.  
+- **Data Visualization** – Generates **word clouds, sentiment distribution graphs, and heatmaps** for better insights.  
+- **Real-time Sentiment Analysis** – Supports **live input processing** to analyze comments dynamically.  
 
-How to Use
-1️⃣ Clone the repository:
+##  Technologies Used  
+- **Programming Language** – Python (NumPy, Pandas, Matplotlib, Seaborn)  
+- **Natural Language Processing (NLP)** – NLTK, SpaCy, TextBlob  
+- **Machine Learning** – Scikit-Learn, XGBoost  
+- **Deep Learning** – TensorFlow, PyTorch (for LSTM, BERT-based models)  
+- **Data Visualization** – Matplotlib, Seaborn, WordCloud  
 
-bash
-Copy
-Edit
-git clone https://github.com/KhushiNyat/Comment-Analysis-for-Sentiment-Detection.git
+##  How to Use  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/KhushiNyati/Comment-Analysis-for-Sentiment-Detection.git
+
 cd Comment-Analysis-for-Sentiment-Detection
-2️⃣ Install dependencies:
 
-bash
-Copy
-Edit
+### 2️⃣ Install Dependencies
+
 pip install -r requirements.txt
+
 3️⃣ Run the sentiment analysis script:
 
-bash
-Copy
-Edit
 python sentiment_analysis.py
-4️⃣ Input a comment and get sentiment classification results! 🎯
+
+4️⃣ Input a comment and get sentiment classification results!
 
 Applications
 🔹 Social Media Monitoring – Analyze user opinions from Twitter, Facebook, and other platforms.
