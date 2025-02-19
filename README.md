@@ -54,6 +54,31 @@ Future Enhancements
 
 🔹 Emotion Detection (Happy, Sad, Angry, etc.) for deeper sentiment insights.
 
+reddit.csv
+
+comment_analyzer_preprocessing
+
+experiment_1_baseline_model - https://github.com/KhushiNyati/Comment-Analysis-for-Sentiment-Detection/blob/main/experiment_1_baseline_model.ipynb
+
+experiment_2_bow_tfidf - https://github.com/KhushiNyati/Comment-Analysis-for-Sentiment-Detection/blob/main/experiment_2_bow_tfidf.ipynb
+
+experiment_3_tfidf_(1,3)_max_features - https://github.com/KhushiNyati/Comment-Analysis-for-Sentiment-Detection/blob/main/experiment_3_tfidf_(1%2C3)_max_features.ipynb
+
+experiment_4_handling_imbalanced_data - https://github.com/KhushiNyati/Comment-Analysis-for-Sentiment-Detection/blob/main/experiment_4_handling_imbalanced_data.ipynb
+
+experiment_5_xgboost_with_hpt - https://github.com/KhushiNyati/Comment-Analysis-for-Sentiment-Detection/blob/main/experiment_5_xgboost_with_hpt.ipynb
+
+experiment_5_knn_with_hpt - https://github.com/KhushiNyati/Comment-Analysis-for-Sentiment-Detection/blob/main/experiment_5_knn_with_hpt.ipynb
+
+lightGBM_final - https://github.com/KhushiNyati/Comment-Analysis-for-Sentiment-Detection/blob/main/lightGBM_final.ipynb
+
+word2vec - https://github.com/KhushiNyati/Comment-Analysis-for-Sentiment-Detection/blob/main/word2vec.ipynb
+
+custome_features - https://github.com/KhushiNyati/Comment-Analysis-for-Sentiment-Detection/blob/main/custom_features.ipynb
+
+stacking - https://github.com/KhushiNyati/Comment-Analysis-for-Sentiment-Detection/blob/main/stacking.ipynb
+
+
 
 
 Project Organization
