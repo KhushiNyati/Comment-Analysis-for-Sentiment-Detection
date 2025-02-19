@@ -23,12 +23,11 @@ This project is designed to analyze user comments and determine their sentiment�
 ##  How to Use  
 
 ### 1️⃣ Clone the Repository  
-```bash
 git clone https://github.com/KhushiNyati/Comment-Analysis-for-Sentiment-Detection.git
 
 cd Comment-Analysis-for-Sentiment-Detection
 
-### 2️⃣ Install Dependencies
+2️⃣ Install Dependencies
 
 pip install -r requirements.txt
 
