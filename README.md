@@ -38,14 +38,21 @@ python sentiment_analysis.py
 4️⃣ Input a comment and get sentiment classification results!
 
 Applications
+
 🔹 Social Media Monitoring – Analyze user opinions from Twitter, Facebook, and other platforms.
+
 🔹 Customer Feedback Analysis – Improve products/services by understanding customer sentiment.
+
 🔹 Product Review Classification – Identify trends and insights from online reviews.
+
 🔹 Hate Speech Detection – Flag and analyze offensive or inappropriate comments.
 
 Future Enhancements
+
 🔹 Real-time API Deployment for sentiment classification.
+
 🔹 Multilingual Sentiment Analysis to support various languages.
+
 🔹 Emotion Detection (Happy, Sad, Angry, etc.) for deeper sentiment insights.
 
 
